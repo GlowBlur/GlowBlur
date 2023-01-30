@@ -2,4 +2,4 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats-glowblur.vercel.app/api?username=GlowBlur&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-glowblur.vercel.app/api?username=hackerhui&show_icons=true&theme=radical)
